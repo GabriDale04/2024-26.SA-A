@@ -1,0 +1,15 @@
+{
+    "name": "http-api-testing",
+    "version": "1.0.0",
+    "description": "HTTP API testing with supertest and Jest",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "ITSAR prof",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^30.2.0",
+        "supertest": "^7.1.4"
+    }
+}
